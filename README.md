@@ -15,4 +15,5 @@
     - Mail: jyotsna17gupta@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Minion-maniac
+- Website: https://jyotsna17gupta.github.io/
 
